@@ -1,5 +1,5 @@
 # Email Templates
 
-## Customer Journey
-
-- [Welcome](templates/welcome.md)
+| Mensagem | Quando utilizar | Categoria |
+| :--- | :--- | :--- |
+| [Welcome](templates/welcome.md) | Enviar 10 min após o cadastro do usuário | costumer_journey |
