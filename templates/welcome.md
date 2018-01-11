@@ -1,4 +1,4 @@
-Olá - Eu sou Tiago, um dos fundadores do Menyoo
+Olá - Eu sou Tiago, um dos fundadores da Menyoo
 
 Duas coisas que eu adoraria saber:
 
@@ -9,11 +9,12 @@ Com essa informação, eu posso ajudar você a ir na direção correta :rocket:
 
 Tiago
 
-PS – Esse é meu email pessoal, e eu estou pronto para te ajudar.
+_PS – Esse é meu email pessoal, e eu estou pronto para te ajudar._
 
- -- 
-Tiago Espejo, Co-Fundador
-+55 11 971747758
-https://menyoo.me
+--
+
+Tiago Espejo, Co-Fundador  
++55 11 97174-7758  
+https://menyoo.me  
 
 Precisa de ajuda com cardápios? Leia [nosso blog](https://blog.menyoo.me)
