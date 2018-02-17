@@ -6,7 +6,8 @@ Venho aqui pessoalmente te agradecer por confiar em nosso serviço e dizer que e
 
 --
 
-Tiago Espejo, Co-Fundador  
+**Tiago Espejo**   
+CEO & Co-Founder  
 +55 (11) 971 747 758  
 https://menyoo.me  
 
