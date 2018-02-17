@@ -1,20 +1,13 @@
-Olá - Eu sou Tiago, um dos fundadores da Menyoo
+Olá `$userName`
 
-Duas coisas que eu adoraria saber:
+Seja bem vindo a Menyoo, meu nome é Tiago, um dos fundadores da Menyoo.
 
-1. Por quê você escolheu Menyoo?
-2. Qual a solução atual você utiliza em seu estabelecimento?
-
-Com essa informações, eu posso ajudar você a ir na direção correta :rocket: 
-
-Tiago
-
-_PS – Esse é meu email pessoal, e eu estou pronto para te ajudar._
+Venho aqui pessoalmente te agradecer por confiar em nosso serviço e dizer que estou a disposição para te ajudar nessa jornada.
 
 --
 
 Tiago Espejo, Co-Fundador  
-+55 11 97174-7758  
++55 (11) 971 747 758  
 https://menyoo.me  
 
-Precisa de ajuda com cardápios? Leia [nosso blog](https://blog.menyoo.me/?utm_source=email&utm_medium=footer_link&utm_campaign=welcome_message)
+Precisa de ajuda com cardápios? Leia nosso [blog](https://blog.menyoo.me/?utm_source=email&utm_medium=footer_link&utm_campaign=welcome_message)
