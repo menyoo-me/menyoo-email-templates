@@ -18,3 +18,8 @@ CEO & Co-Founder
 https://menyoo.me  
 
 Precisa de ajuda com cardápios? Leia nosso [blog](https://blog.menyoo.me/?utm_source=email&utm_medium=footer_link&utm_campaign=welcome_message)
+
+---
+
+## References
+[Spark Welcome](../references/spark-welcome.md)
