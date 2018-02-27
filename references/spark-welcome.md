@@ -1,3 +1,5 @@
+**I hope you’ll love Spark**
+
 Alex Tyagulsky - Readdle co-founder <rdsupport@readdle.com>
 
 ---
