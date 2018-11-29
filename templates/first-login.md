@@ -2,7 +2,7 @@ Olá `$userName`
 
 Já faz um tempinho que você criou sua conta mais ainda não acessou a nossa plataforma.
 
-Você precisa de ajuda pra concluir?
+Você precisa de ajuda pra concluir??
 
 --
 
