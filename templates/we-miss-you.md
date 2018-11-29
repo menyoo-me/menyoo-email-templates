@@ -1,1 +1,1 @@
-Sentimos sua falta, faz mais de 30 dias que você não acessa sua conta.
+Sentimos sua falta, faz mais de '{{ $days }}' dias que você não acessa sua conta.
