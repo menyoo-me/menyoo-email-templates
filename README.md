@@ -11,3 +11,5 @@
 | [Plan Upgrade: Add Your Own Logo ](templates/plan-upgrade-add-your-own-logo.md) | Enviar 15 dias o cadastro do estabelecimento | costumer_stimulant |
 | [Two Questions](templates/two-questions.md) | Enviar 5 dias após o cadastro do usuário | costumer_stimulant |
 | [Unpublish Menu](templates/unpublish-menu.md) | Enviar alguns dias após o menu ficar com o status de Não Publicado | costumer_stimulant |
+
+UI reference: https://reallygoodemails.com/
