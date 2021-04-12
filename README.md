@@ -12,4 +12,11 @@
 | [Two Questions](templates/two-questions.md) | Enviar 5 dias após o cadastro do usuário | costumer_stimulant |
 | [Unpublish Menu](templates/unpublish-menu.md) | Enviar alguns dias após o menu ficar com o status de Não Publicado | costumer_stimulant |
 
-UI reference: https://reallygoodemails.com/
+
+### References
+
+- Fix Gmail’s Dark Mode https://hteumeuleu.com/2021/fixing-gmail-dark-mode-css-blend-modes/
+- Transform/Inline - https://alter.email
+- Emails Showcase - https://reallygoodemails.com
+- Email Bugs - https://github.com/hteumeuleu/email-bugs
+- Target Mail Clients - https://howtotarget.email
