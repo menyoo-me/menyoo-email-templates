@@ -1,4 +1,4 @@
-Olá ``{{ $userName }}`
+Olá `{{ $userName }}`
 
 Vi que você acabou de adicionar um novo estabelecimento, e isso é muito bom.
 
